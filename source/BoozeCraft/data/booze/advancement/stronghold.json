@@ -1,0 +1,23 @@
+{
+    "criteria": {
+      "found_stronghold": {
+        "trigger": "minecraft:location",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "location": {
+                  "structures": "minecraft:stronghold"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "booze:entered_stronghold_reward"
+    }
+  }

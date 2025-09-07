@@ -1,0 +1,10 @@
+{
+    "criteria":{
+        "ate_something":{
+            "trigger": "consume_item"
+        }
+    },
+    "rewards": {
+        "function" : "booze:ate_food"
+    }
+}

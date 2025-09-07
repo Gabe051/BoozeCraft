@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "first_diamond":{
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:diamond"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "booze:first_diamond"
+    }
+}
