@@ -64,6 +64,7 @@ After fulfilling some condition(s), the datapack will decide which players drink
   - Mining the first diamond makes everyone except you drink
   - Consuming an item (eat or drink) has a 3% chance of making everyone drink
   - Mining the first ancient debris makes everyone except you drink
+  - Picking up a wheat seed has a 1% chance to make you drink
 </details>
 
 
