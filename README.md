@@ -59,13 +59,15 @@ After fulfilling some condition(s), the datapack will decide which players drink
   - Entering a Bastion for the first time makes you drink
   - Each person coinflips needing to drink once per day cycle
   - Mining a diamond ore has a 20% chance to make a random other person drink
-  - Mining a coal block has a 3% chance of making you drink
-  - Mining an iron block has a 4% chance of making you drink
-  - Mining the first diamond makes everyone except you drink
+  - Mining a coal ore block has a 3% chance of making you drink
+  - Mining an iron ore block has a 4% chance of making you drink
+  - Picking up the first diamond makes everyone except you drink
+  - Mining an emerald ore has a 50% chance of making EVERYONE drink
   - Consuming an item (eat or drink) has a 3% chance of making everyone drink
   - Mining the first ancient debris makes everyone except you drink
   - Picking up a wheat seed has a 1% chance to make you drink
   - Making 4 villager trades makes you drink
+
 </details>
 
 
