@@ -1,0 +1,1 @@
+execute unless score $global first_diamond = $global first_diamond run function booze:first_diamond_true

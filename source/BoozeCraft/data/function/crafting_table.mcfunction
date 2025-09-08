@@ -1,0 +1,1 @@
+execute unless score $global crafting_table = $global crafting_table run function booze:crafting_table_true

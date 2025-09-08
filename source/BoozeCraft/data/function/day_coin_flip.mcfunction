@@ -1,0 +1,1 @@
+execute as @s if predicate booze:day_coin_flip run function booze:day_heads

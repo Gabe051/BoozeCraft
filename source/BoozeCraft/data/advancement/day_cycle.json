@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "day_cycle":{
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function" : "booze:day_coin_flip"
+    }
+}
