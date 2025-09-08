@@ -1,1 +1,0 @@
-#execute if predicate booze:in_bastion run advancement grant @s only booze:entered_bastion

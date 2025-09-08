@@ -1,1 +1,0 @@
-execute unless score $global ancient_debris = $global ancient_debris run function booze:ancient_debris_true
