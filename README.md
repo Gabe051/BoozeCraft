@@ -67,6 +67,9 @@ After fulfilling some condition(s), the datapack will decide which players drink
   - Mining the first ancient debris makes everyone except you drink
   - Picking up a wheat seed has a 1% chance to make you drink
   - Making 4 villager trades makes you drink
+  - Landing the last hit on the ender dragon makes every other player drink
+  - Landing the last hit on a wither makes every other player drink
+  - You have to drink upon first joining the server
 
 </details>
 
