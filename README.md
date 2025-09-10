@@ -70,6 +70,8 @@ After fulfilling some condition(s), the datapack will decide which players drink
   - Landing the last hit on the ender dragon makes every other player drink
   - Landing the last hit on a wither makes every other player drink
   - You have to drink upon first joining the server
+  - Breaking a piece of wooden, stone, golden, or iron gear makes you drink
+  - Breaking a piece of diamond or netherite gear makes everyone drink
 
 </details>
 
